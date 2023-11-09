@@ -1,0 +1,22 @@
+.image.img-small,
+.image.img-small.img.small {
+  width: 200px
+}
+.img-small {
+  width: 180px
+}
+.image-med {
+  width: 75px
+}
+.image-medium {
+  width: 20%
+}
+.image {
+  color: rgba(0,0,0,.83);
+  text-align: center
+}
+.image-large {
+  text-align: center;
+  width: 80%
+}
+
