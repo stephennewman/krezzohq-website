@@ -1,22 +1,18 @@
-.image.img-small,
-.image.img-small.img.small {
-  width: 200px
-}
-.img-small {
-  width: 180px
-}
 .image-med {
-  width: 75px
+  width: 60%
 }
-.image-medium {
-  width: 20%
-}
-.image {
-  color: rgba(0,0,0,.83);
-  text-align: center
-}
-.image-large {
-  text-align: center;
+.image-m,
+.image-smaller {
   width: 80%
+}
+.image,
+.smaller {
+  width: 60%
+}
+.t {
+  color: #0cf
+}
+.imagey {
+  width: 50%
 }
 

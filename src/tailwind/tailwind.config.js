@@ -18,7 +18,7 @@ module.exports = {
             current: 'currentColor',
             transparent: 'transparent',
 
-            black: '#FFFFFF',
+            black: '#000',
             white: '#fff',
 
             gray: {
@@ -170,7 +170,7 @@ module.exports = {
         backdropSepia: (theme) => theme('sepia'),
         backgroundColor: theme => ({
             ...theme('colors'),
-            body: '#F9F3F3',
+            body: '#fff',
         }),
         backgroundImage: {
             none: 'none',
